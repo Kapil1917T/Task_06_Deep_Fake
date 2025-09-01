@@ -31,7 +31,7 @@ The dialogue includes:
 
 | Tool | Purpose |
 |------|---------|
-| **ChatGPT (GPT-4)** | Script generation and iterative refinement |
+| **ChatGPT (GPT-5)** | Script generation and iterative refinement |
 | **Colossyan** | Deep fake video generation with dual avatars and natural voice synthesis |
 | **GitHub** | Repository management and project submission |
 | **Canva** *(optional)* | For thumbnail/title visual assets (if needed) |
